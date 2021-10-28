@@ -1,2 +1,3 @@
-# jwp_practice
-latihan junior web programming
+# Pelatihan Junior Web Programming 2021
+
+
